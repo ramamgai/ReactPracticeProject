@@ -1,0 +1,12 @@
+.list-group-item{
+  background-color: rgb(230, 202, 21);
+}
+
+.kg-span {
+  color: rgb(147, 19, 51);
+  font-weight: bold;
+}
+.buyButoon{
+  background-color: blue;
+  float: right;
+}
